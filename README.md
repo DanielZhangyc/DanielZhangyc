@@ -7,5 +7,6 @@
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=DanielZhangyc&show_icons=true&theme=catppuccin_mocha" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhangyc&layout=compact&langs_count=8&theme=catppuccin_mocha" />
+</span><img height="170px" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=RLLM&theme=catppuccin_mocha" />
 <span>  </span>
 </div>
