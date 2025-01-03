@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=RLLM&theme=catppuccin_mocha" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=RLLM&theme=catppuccin_mocha" />
 </div>
