@@ -1,5 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=You+Only+Live+Once)](https://git.io/typing-svg) \
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielZhangyc)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?
+       font=Fira+Code&pause=1000&width=435&lines=You+only+live+once" alt="typing-svg">
+</p>
+
+## 📈 Statistics 
+
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhangyc&layout=compact" />
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=DanielZhangyc&show_icons=true&theme=catppuccin_mocha" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhangyc&layout=compact&langs_count=8&theme=catppuccin_mocha" />
+<span>  </span>
 </div>
