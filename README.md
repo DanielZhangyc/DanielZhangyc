@@ -55,7 +55,6 @@ A senior high school student in Shanghai, China
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![Kitty](https://img.shields.io/badge/-Kitty-black?style=flat-square&logo=terminal&logoColor=white)
-![Mac](https://img.shields.io/badge/-Mac%20Mini%20M4-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux&logoColor=white)
 
