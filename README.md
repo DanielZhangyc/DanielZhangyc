@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Daniel+Zhang;Building+LLM-powered+RSS+Reader;Making+AI+more+accessible" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=You+only+live+once" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 About Me</h3>
