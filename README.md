@@ -24,6 +24,9 @@ A senior high school student in Shanghai, China
   <a href="https://github.com/DanielZhangyc/RLLM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=RLLM&theme=catppuccin_mocha" />
   </a>
+   <a href="https://github.com/DanielZhangyc/VVQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=VVQuest&theme=catppuccin_mocha" />
+  </a>
 </div>
 
 **RLLM** is an innovative RSS reader that leverages the power of Large Language Models to:
