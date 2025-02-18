@@ -8,7 +8,7 @@
 <p align="center">
 A senior high school student in Shanghai, China
   <br/>
-  Currently working on RLLM - A LLM-powered RSS Reader
+  Currently working on RLLM & VVQuest
 </p>
 
 <div align="center">
@@ -27,13 +27,7 @@ A senior high school student in Shanghai, China
    <a href="https://github.com/DanielZhangyc/VVQuest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielZhangyc&repo=VVQuest&theme=catppuccin_mocha" />
   </a>
-</div>
-
-**RLLM** is an innovative RSS reader that leverages the power of Large Language Models to:
-- 📚 Automatically summarize articles
-- 🎯 Provide AI-powered insights
-- 🔍 Smart content categorization
-- 📱 Beautiful SwiftUI interface
+</div
 
 ### 📊 GitHub Stats
 
